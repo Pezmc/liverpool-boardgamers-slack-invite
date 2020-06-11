@@ -1,5 +1,9 @@
-Slack Invite Automation
+Slack Invite Automation for Liverpool Board Gamers
 ------------
+
+Based on https://github.com/outsideris/slack-invite-automation by [@outsideris](https://github.com/outsideris)
+
+-----------
 
 [![Build Status](https://travis-ci.com/outsideris/slack-invite-automation.svg?branch=master)](https://travis-ci.com/outsideris/slack-invite-automation)
 
